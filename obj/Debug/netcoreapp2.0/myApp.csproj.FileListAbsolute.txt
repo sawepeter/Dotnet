@@ -1,0 +1,11 @@
+C:\xampp\htdocs\myApp\bin\Debug\netcoreapp2.0\myApp.deps.json
+C:\xampp\htdocs\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.json
+C:\xampp\htdocs\myApp\bin\Debug\netcoreapp2.0\myApp.runtimeconfig.dev.json
+C:\xampp\htdocs\myApp\bin\Debug\netcoreapp2.0\myApp.dll
+C:\xampp\htdocs\myApp\bin\Debug\netcoreapp2.0\myApp.pdb
+C:\xampp\htdocs\myApp\obj\Debug\netcoreapp2.0\myApp.csprojAssemblyReference.cache
+C:\xampp\htdocs\myApp\obj\Debug\netcoreapp2.0\myApp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\myApp\obj\Debug\netcoreapp2.0\myApp.AssemblyInfo.cs
+C:\xampp\htdocs\myApp\obj\Debug\netcoreapp2.0\myApp.dll
+C:\xampp\htdocs\myApp\obj\Debug\netcoreapp2.0\myApp.pdb
